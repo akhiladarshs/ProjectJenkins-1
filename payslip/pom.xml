@@ -30,7 +30,7 @@
           <executions>
             <execution>
               <goals>
-                <goal>integration-test</goal>
+                <goal>VariableComponent-test</goal>
                 <goal>verify</goal>
               </goals>
               <configuration>
